@@ -1,7 +1,3 @@
-# rasp-pi-iot-libraries
-IoT exploration using Raspberry pi
-
-
 # Notes to setup pi from scratch
 
-https://github.com/navinsubramani/rasp-pi-iot-libraries/wiki/Bringing-up-Raspberry-pi-headless
+Raw Notes to setup pi headless: https://github.com/navinsubramani/rasp-pi-iot-libraries/wiki/Bringing-up-Raspberry-pi-headless
