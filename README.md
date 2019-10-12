@@ -16,11 +16,9 @@ https://roderickvella.wordpress.com/2016/06/28/raspberry-pi-gpio-emulator/
 
 # Python on pi documentation: 
 
-https://www.raspberrypi.org/documentation/usage/gpio/python/README.md
-
 https://www.ics.com/blog/control-raspberry-pi-gpio-pins-python
 
-
+https://www.raspberrypi.org/documentation/usage/gpio/python/README.md
 
 # Reference materials
 
