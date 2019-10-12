@@ -6,6 +6,10 @@ Raw Notes to setup pi headless: https://github.com/navinsubramani/rasp-pi-iot-li
 
 Sunkee ds18b20 : https://github.com/navinsubramani/rasp-pi-iot-libraries/wiki/Sunkee-ds18b20-temperature-sensor-with-raspberry-pi
 
+S8050 transistor: https://www.instructables.com/id/How-to-Control-Fan-on-Raspberry-Pi-4-With-Transist/
+
+LED: https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins
+
 # Python using Raspberry pi simulator
 
 https://create.withcode.uk/python/A3
