@@ -17,6 +17,8 @@ https://roderickvella.wordpress.com/2016/06/28/raspberry-pi-gpio-emulator/
 # Python on pi documentation: 
 
 https://www.ics.com/blog/control-raspberry-pi-gpio-pins-python
+- RPi.GPIO module library is based on the inputs and outputs of GPIO  : https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/
+- GPIOZero module library is oriented on the devices and sensor type : https://gpiozero.readthedocs.io/en/stable/
 
 https://www.raspberrypi.org/documentation/usage/gpio/python/README.md
 
