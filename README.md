@@ -1,3 +1,5 @@
+![alt text](https://github.com/navinsubramani/rasp-pi-iot-getting-started/blob/master/documentation/IOT%20Architecture.jpg)
+
 # Notes to setup pi from scratch
 
 Raw Notes to setup pi headless: https://github.com/navinsubramani/rasp-pi-iot-libraries/wiki/Bringing-up-Raspberry-pi-headless
