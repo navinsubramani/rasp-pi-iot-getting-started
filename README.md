@@ -26,6 +26,18 @@ https://www.ics.com/blog/control-raspberry-pi-gpio-pins-python
 
 https://www.raspberrypi.org/documentation/usage/gpio/python/README.md
 
+# IOT Server setup
+
+No-IP for static IP: https://www.noip.com/
+
+Setting up a server machine using NO-IP in a home network: https://www.noip.com/support/knowledgebase/using-no-ip-with-a-cabledsl-router/
+
+# IOT communication protocol client-server
+
+MQTT : http://mqtt.org/
+
+
+
 # Reference materials
 
 Documentation on GPIO pins: https://www.raspberrypi.org/documentation/usage/gpio/
