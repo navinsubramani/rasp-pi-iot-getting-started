@@ -34,11 +34,25 @@ No-IP for static IP: https://www.noip.com/
 
 Setting up a server machine using NO-IP in a home network: https://www.noip.com/support/knowledgebase/using-no-ip-with-a-cabledsl-router/
 
-# IOT communication protocol client-server
+# IOT Application protocol client-server
+
+Communication protocol can be wifi, bluetooth, internet,... but there will have to be a application protocol that is used on top of them to communication application specific messages
 
 MQTT : http://mqtt.org/
 
+MQTT debugger: http://www.mqttfx.org/
 
+Several MQTT brokers to test communication are on the Internet. One of the most popular is mosquitto. To test the communication, you can publish topics to test.mosquitto.org. The mosquitto broker is open source and can also be used in-house for sandbox testing or production use of MQTT communication.
+
+MQTT LabVIEW library: 
+- https://forums.ni.com/t5/Example-Program-Drafts/MQTT-Client-API-in-native-LabVIEW/ta-p/3520582?profile.language=en
+- https://github.com/DAQIO/LVMQTT
+- https://forums.ni.com/t5/Community-Documents/MQTT-Driver-for-LabVIEW/ta-p/3561289?profile.language=en
+- https://github.com/Indie-Energy/AWS-IoT-RESTful/tree/master/Examples
+
+MQTT Python library:
+- https://www.digikey.com/en/maker/blogs/2019/how-to-use-mqtt-with-the-raspberry-pi
+- https://www.abelectronics.co.uk/kb/article/1085/io-pi-tutorial---mqtt-control
 
 # Reference materials
 
